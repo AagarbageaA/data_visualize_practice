@@ -19,7 +19,7 @@ d3.csv('py/data/Salary.csv').then(res => {
         xaxis: {
             tickangle: -45, 
             tickfont: {
-                size: 20, 
+                size: 8, 
             },
         },
         updatemenus: [
