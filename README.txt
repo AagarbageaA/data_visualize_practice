@@ -32,5 +32,6 @@ This project includes a web interface that presents information through three ty
 
 Users can explore these charts to gain a visual understanding of the dataset and draw valuable conclusions.
 
-
+## Browse
+https://aagarbageaa.github.io/data_visualize_practice/
  
