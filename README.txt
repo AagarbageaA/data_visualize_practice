@@ -1,27 +1,36 @@
-Demo Website For Web Fundamentals 1 Workshop.
+# Project README
 
-This demo page features a flat, minimalistic design, a fully animated interface (with noscript fallbacks), and styling for all basic page elements (including blockquotes, tables and lists). Enjoy!
+## Salary Information Analysis Project
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images you can use for pretty much whatever.
+This project focuses on presenting statistical data related to a specific dataset, showcasing various aspects of salary information I have gathered. The dataset provides a comprehensive collection of salary data from different industries and regions globally. Sourced from reputable employment websites and surveys, it includes information on job titles, salaries, job sectors, geographic locations, and more.
 
-(* = Not included)
+### Dataset Overview
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- **Content:** The dataset encompasses a wide range of information crucial for understanding compensation trends.
+- **Sources:** Data is collected from reputable employment websites and surveys.
+- **Attributes:** Job titles, salaries, job sectors, geographic locations, and additional relevant details.
 
-AJ
-aj@lkn.io | @ajlkn
+### Purpose
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+The primary purpose of this project is to analyze the dataset and extract meaningful insights. Users can leverage this information to:
 
+- Understand job market trends.
+- Compare compensation across various professions.
+- Make informed decisions regarding career choices or hiring strategies.
 
-Credits:
+### Data Preparation
 
-	Demo Images:
-		Unsplash (unsplash.com)
+The dataset has undergone cleaning and preprocessing to ensure it is ready for analysis. This enhances the ease of use for researchers and analysts interested in delving into salary-related statistics.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### Usage
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This project includes a web interface that presents information through three types of charts:
+
+1. **Scatter & Line Chart:** Visualizes trends and relationships between different data points.
+2. **Pie Chart:** Provides a clear breakdown of proportions or percentages within the dataset.
+3. **Bar Chart:** Allows for easy comparison of different items within the dataset.
+
+Users can explore these charts to gain a visual understanding of the dataset and draw valuable conclusions.
+
+## Browse
+https://aagarbageaa.github.io/data_visualize_practice/
